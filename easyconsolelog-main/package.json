@@ -1,0 +1,23 @@
+{
+  "name": "@mybadprojects/easyconsolelog",
+  "version": "1.0.5",
+  "description": "Update 5 - console.log is now given up for process.stdout! | easyconsolelog adds features such as print(), warn() and error()!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "print",
+    "warn",
+    "error",
+    "simplify",
+    "easy",
+    "basic"
+  ],
+  "author": "MyBadProjects",
+  "license": "GPL 3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyBadProjects/easyconsolelog"
+  }
+}
