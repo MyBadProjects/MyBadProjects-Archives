@@ -1,0 +1,16 @@
+{
+  "name": "yo-mama",
+  "version": "1.0.0",
+  "description": "deep fry your stuff till it's a 1992 jpeg image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"There is no test\" && exit 1"
+  },
+  "author": "some doggo",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "discord.js": "^12.5.1",
+    "path": "^0.12.7"
+  }
+}

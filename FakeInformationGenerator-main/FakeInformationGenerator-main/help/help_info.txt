@@ -1,0 +1,1 @@
+This outputs a .txt OR .json file containing all the info, it is designed around faker (faker.js) to easily generate a fake person.

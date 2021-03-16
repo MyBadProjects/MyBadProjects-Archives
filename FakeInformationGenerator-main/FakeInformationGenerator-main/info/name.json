@@ -1,0 +1,15 @@
+{
+    "nameinfo":1,
+    "firstName":1,
+    "lastName":1,
+    "fullName":1,
+    "findName":1,
+    "jobTitle":1,
+    "gender":1,
+    "prefix":1,
+    "suffix":1,
+    "title":1,
+    "jobDescriptor":1,
+    "jobArea":1,
+    "jobType":1
+}

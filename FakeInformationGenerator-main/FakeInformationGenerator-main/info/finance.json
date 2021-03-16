@@ -1,0 +1,20 @@
+{
+    "financeinfo":1,
+    "account":1,
+    "accountName":1,
+    "routingNumber":1,
+    "mask":1,
+    "amount":1,
+    "transactionType":1,
+    "currencyCode":1,
+    "currencyName":1,
+    "currencySymbol":1,
+    "bitcoinAddress":1,
+    "litecoinAddress":1,
+    "creditCardNumber":1,
+    "creditCardCVV":1,
+    "ethereumAddress":1,
+    "iban":1,
+    "bic":1,
+    "transactionDescription":1
+}

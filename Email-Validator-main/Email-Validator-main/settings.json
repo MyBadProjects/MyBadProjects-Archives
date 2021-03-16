@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "logging": {
+      "filename": "logs.txt",
+      "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+      "mode": "DEBUG"
+    }
+  },
+  "data": {
+    "settings": {
+      "logging": ["filename", "filemode", "format", "mode"]
+    },
+    "platforms": {
+      "supported": ["Windows"]
+    },
+    "ui": {
+      "config": {
+        "title": "Email Risk Determiner"
+      }
+    },
+    "code": {
+      "data":{
+          "code": ""
+        }
+      },
+    "fileinfo": {
+      "data": {
+        "name": "main.py"
+      }
+    }
+  }
+}

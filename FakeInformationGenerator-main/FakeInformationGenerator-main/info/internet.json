@@ -1,0 +1,11 @@
+{
+    "internet":1,
+    "avatar":1,
+    "email":1,
+    "userName":1,
+    "password":1,
+    "ip":1,
+    "ipv6":1,
+    "url":1,
+    "mac":1
+}
