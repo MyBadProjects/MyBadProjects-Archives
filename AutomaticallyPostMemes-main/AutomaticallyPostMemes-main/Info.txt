@@ -1,0 +1,38 @@
+How do I get my Webhook's Discord Info?
+    You can find you Webhook's Discord ID and Token in the link.
+    
+    The average link format looks like this: 
+
+        https://discord.com/api/webhooks/id/token
+    
+    Where the ID and Token are they contain the information as labeled in the format.
+    You can put the information in the 'config.ini' file in 'info/config.ini'.
+
+How do I change the 'config.ini' file?
+    You can open the 'config.ini' file in any text editor.
+
+    When you open it, it will look like this:
+
+        [Webhook.Settings]
+        ID = 
+        Token = 
+
+        [Webhook.Timer]
+        Seconds = 
+
+    After getting your information, in the 'ID' in 'Webhook.Settings', after the '=' you put the ID. 
+    This is the same for the rest of the info.
+
+How do I get the 'Seconds' info for the Webhook?
+    You get the 'Seconds' info for the Webhook by the amount of time you want between the posts.
+    I recommend '300' as it is 5 minutes which seems like a good amount of time to keep any images channel active. 
+
+    The 'Seconds' info is under [Webhook.Settings] as can be seen below.
+    
+        [Webhook.Timer]
+        Seconds = 300
+
+    (The shown above is my recommend settings for Webhook.Timer)
+
+Made By:
+    MyBadProjects

@@ -1,0 +1,10 @@
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\bin\Debug\CalculatorCollection.exe.config
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\bin\Debug\CalculatorCollection.exe
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\bin\Debug\CalculatorCollection.pdb
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.csprojAssemblyReference.cache
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.Form1.resources
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.Properties.Resources.resources
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.csproj.GenerateResource.cache
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.csproj.CoreCompileInputs.cache
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.exe
+C:\Users\Darragh\source\repos\CalculatorCollection\CalculatorCollection\obj\Debug\CalculatorCollection.pdb

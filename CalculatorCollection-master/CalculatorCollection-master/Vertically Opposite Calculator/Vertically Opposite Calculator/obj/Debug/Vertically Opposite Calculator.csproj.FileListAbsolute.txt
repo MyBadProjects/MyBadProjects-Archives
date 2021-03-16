@@ -1,0 +1,10 @@
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\bin\Debug\Vertically Opposite Calculator.exe.config
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\bin\Debug\Vertically Opposite Calculator.exe
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\bin\Debug\Vertically Opposite Calculator.pdb
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically Opposite Calculator.csprojAssemblyReference.cache
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically_Opposite_Calculator.Form1.resources
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically_Opposite_Calculator.Properties.Resources.resources
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically Opposite Calculator.csproj.GenerateResource.cache
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically Opposite Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically Opposite Calculator.exe
+C:\Users\Darragh\source\repos\Vertically Opposite Calculator\Vertically Opposite Calculator\obj\Debug\Vertically Opposite Calculator.pdb
